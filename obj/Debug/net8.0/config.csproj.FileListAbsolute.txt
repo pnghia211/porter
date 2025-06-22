@@ -1,0 +1,17 @@
+D:\porter\learning\DynamicItinerary\obj\Debug\net8.0\config.GeneratedMSBuildEditorConfig.editorconfig
+D:\porter\learning\DynamicItinerary\obj\Debug\net8.0\config.AssemblyInfoInputs.cache
+D:\porter\learning\DynamicItinerary\obj\Debug\net8.0\config.AssemblyInfo.cs
+D:\porter\learning\DynamicItinerary\obj\Debug\net8.0\config.csproj.CoreCompileInputs.cache
+D:\porter\learning\DynamicItinerary\bin\Debug\net8.0\config.exe
+D:\porter\learning\DynamicItinerary\bin\Debug\net8.0\config.deps.json
+D:\porter\learning\DynamicItinerary\bin\Debug\net8.0\config.runtimeconfig.json
+D:\porter\learning\DynamicItinerary\bin\Debug\net8.0\config.dll
+D:\porter\learning\DynamicItinerary\bin\Debug\net8.0\config.pdb
+D:\porter\learning\DynamicItinerary\obj\Debug\net8.0\config.dll
+D:\porter\learning\DynamicItinerary\obj\Debug\net8.0\refint\config.dll
+D:\porter\learning\DynamicItinerary\obj\Debug\net8.0\config.pdb
+D:\porter\learning\DynamicItinerary\obj\Debug\net8.0\config.genruntimeconfig.cache
+D:\porter\learning\DynamicItinerary\obj\Debug\net8.0\ref\config.dll
+D:\porter\learning\DynamicItinerary\bin\Debug\net8.0\HtmlAgilityPack.dll
+D:\porter\learning\DynamicItinerary\obj\Debug\net8.0\config.csproj.AssemblyReference.cache
+D:\porter\learning\DynamicItinerary\obj\Debug\net8.0\config.csproj.Up2Date
